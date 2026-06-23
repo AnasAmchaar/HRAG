@@ -192,9 +192,9 @@ This implementation is based on the paper:
 If you use H-RAG in your research, please cite:
 
 ```bibtex
-@article{hrag2025,
+@article{hrag2026,
   title   = {Toward Human-Inspired RAG: Hierarchical Vector Compression and Topic-Guided Retrieval},
-  year    = {2025},
+  year    = {2026},
 }
 ```
 
