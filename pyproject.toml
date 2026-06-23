@@ -61,11 +61,11 @@ demo = [
 hrag = "hrag.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/YOUR_USERNAME/H-RAG"
-Documentation = "https://github.com/YOUR_USERNAME/H-RAG#readme"
-Repository = "https://github.com/YOUR_USERNAME/H-RAG"
-Issues = "https://github.com/YOUR_USERNAME/H-RAG/issues"
-Changelog = "https://github.com/YOUR_USERNAME/H-RAG/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/AnasAmchaar/HRAG"
+Documentation = "https://github.com/AnasAmchaar/HRAG#readme"
+Repository = "https://github.com/AnasAmchaar/HRAG"
+Issues = "https://github.com/AnasAmchaar/HRAG/issues"
+Changelog = "https://github.com/AnasAmchaar/HRAG/blob/main/CHANGELOG.md"
 
 [tool.setuptools.packages.find]
 include = ["hrag*"]

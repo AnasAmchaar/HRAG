@@ -1,12 +1,13 @@
 <div align="center">
 
-# 🌳 H-RAG
+<img src="assets/logo.png" alt="H-RAG Logo" width="280">
 
+<br>
 **Hierarchical Vector Compression & Topic-Guided Retrieval for RAG**
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![CI](https://img.shields.io/github/actions/workflow/status/YOUR_USERNAME/H-RAG/ci.yml?branch=main&label=CI)](https://github.com/YOUR_USERNAME/H-RAG/actions)
+[![CI](https://img.shields.io/github/actions/workflow/status/AnasAmchaar/HRAG/ci.yml?branch=main&label=CI)](https://github.com/AnasAmchaar/HRAG/actions)
 [![Code style: ruff](https://img.shields.io/badge/code%20style-ruff-000000.svg)](https://github.com/astral-sh/ruff)
 
 *A novel RAG architecture that organizes document chunks into a hierarchical topic-tree forest, enabling efficient top-down retrieval that mirrors how humans navigate knowledge — from broad topics to specific details.*
@@ -67,7 +68,7 @@ At query time, the retriever performs a **top-down BFS traversal**:
 
 ```bash
 # From source (recommended for development)
-git clone https://github.com/YOUR_USERNAME/H-RAG.git
+git clone https://github.com/AnasAmchaar/HRAG.git
 cd H-RAG
 pip install -e ".[dev]"
 
@@ -166,7 +167,7 @@ pipeline = HumanizedRAGPipeline(index_path="./storage/forest_index.json")
 
 ```bash
 # Clone and install in development mode
-git clone https://github.com/YOUR_USERNAME/H-RAG.git
+git clone https://github.com/AnasAmchaar/HRAG.git
 cd H-RAG
 pip install -e ".[dev]"
 

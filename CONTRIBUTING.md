@@ -27,7 +27,7 @@ This project follows the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.
 
 ```bash
 # Fork the repository on GitHub, then clone your fork
-git clone https://github.com/YOUR_USERNAME/H-RAG.git
+git clone https://github.com/AnasAmchaar/HRAG.git
 cd H-RAG
 
 # Create a virtual environment
