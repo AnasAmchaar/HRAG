@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="H-RAG Logo" width="280">
+<img src="assets/logo1.png" alt="H-RAG Logo" width="280">
 
 <br>
 **Hierarchical Vector Compression & Topic-Guided Retrieval for RAG**
