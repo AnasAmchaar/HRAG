@@ -1,0 +1,67 @@
+# ── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ── Distribution / Packaging ─────────────────────────────────────────────────
+build/
+dist/
+*.egg-info/
+*.egg
+wheels/
+pip-wheel-metadata/
+MANIFEST
+
+# ── Virtual Environments ─────────────────────────────────────────────────────
+.venv/
+.venv_old/
+venv/
+env/
+ENV/
+
+# ── Testing / Coverage ──────────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+
+# ── Linting / Type Checking ─────────────────────────────────────────────────
+.mypy_cache/
+.ruff_cache/
+
+# ── IDE / Editor ─────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+
+# ── OS ───────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Environment Variables ────────────────────────────────────────────────────
+.env
+.env.local
+
+# ── Project-Specific ─────────────────────────────────────────────────────────
+# Generated index files (can be large)
+storage/
+*.json
+!pyproject.toml
+
+# Research papers and extracted text (not part of the library)
+*.pdf
+paper_text.txt
+
+# Data directory contents (users bring their own data)
+data/**
+!data/sample/
+!data/sample/.gitkeep
