@@ -3,7 +3,7 @@
 <img src="assets/logo1.png" alt="H-RAG Logo" width="280">
 
 <br>
-**Hierarchical Vector Compression & Topic-Guided Retrieval for RAG**
+*Hierarchical Vector Compression & Topic-Guided Retrieval for RAG*
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
